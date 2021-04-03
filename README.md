@@ -6,5 +6,6 @@ Hosting the configuration for my [ValheimPlus](https://github.com/valheimPlus/Va
 
 
 ### Changelog
+- 1.1.1: Add header comment
 - 1.1.0: First customization of config
 - 1.0.0: Initial Commit

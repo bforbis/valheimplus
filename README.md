@@ -12,6 +12,7 @@ Once you have unzipped the modded contents into your game directory, you will on
 If you want a way to quick-switch your local game profile between "Vanilla" mode and "ValheimPlus" mode, download the [valheim-switch.bat](./valheim-switch.bat) script and run it. This script will rename your BepInEx folder in your Valheim game directory.
 
 ### Changelog
+- 1.2.0: Update inventory space
 - 1.1.2: Add installation instructions
 - 1.1.1: Add header comment
 - 1.1.0: First customization of config

@@ -1,0 +1,2 @@
+# valheimplus
+Config For ValheimPlus

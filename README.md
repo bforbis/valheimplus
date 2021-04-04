@@ -12,6 +12,7 @@ Once you have unzipped the modded contents into your game directory, you will on
 If you want a way to quick-switch your local game profile between "Vanilla" mode and "ValheimPlus" mode, download the [valheim-switch.bat](./valheim-switch.bat) script and run it. This script will rename your BepInEx folder in your Valheim game directory.
 
 ### Changelog
+- 1.3.3: Update auto-fuel radius for kiln/fires
 - 1.3.2: Update guardian duration to be 2.5 minutes
 - 1.3.1: Update kiln to only look for wood 1m away
 - 1.3.0: Add in remote config sync script

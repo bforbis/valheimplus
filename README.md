@@ -11,7 +11,12 @@ Follow the [Installation Instructions](https://github.com/valheimPlus/ValheimPlu
 Once you have unzipped the modded contents into your game directory, you will only be able to play on ValheimPlus servers.
 If you want a way to quick-switch your local game profile between "Vanilla" mode and "ValheimPlus" mode, download the [valheim-switch.bat](./valheim-switch.bat) script and run it. This script will rename your BepInEx folder in your Valheim game directory.
 
+### Updating ValheimPlus Config
+
+When new versions of ValheimPlus are released, the configuration can be merged using the [Valheim Plus Config Manager](https://valheim-plus-config.web.app/). 
+
 ### Changelog
+- 1.4.0: Update to ValheimPlus version 0.9.7
 - 1.3.4: Increase drop rate of iron
 - 1.3.3: Update auto-fuel radius for kiln/fires
 - 1.3.2: Update guardian duration to be 2.5 minutes

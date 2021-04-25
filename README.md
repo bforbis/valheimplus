@@ -16,6 +16,7 @@ If you want a way to quick-switch your local game profile between "Vanilla" mode
 When new versions of ValheimPlus are released, the configuration can be merged using the [Valheim Plus Config Manager](https://valheim-plus-config.web.app/). 
 
 ### Changelog
+- 1.4.1: Add forceconsole=true
 - 1.4.0: Update to ValheimPlus version 0.9.7
 - 1.3.4: Increase drop rate of iron
 - 1.3.3: Update auto-fuel radius for kiln/fires
